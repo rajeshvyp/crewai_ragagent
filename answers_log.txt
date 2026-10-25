@@ -1,0 +1,260 @@
+
+========================================================================
+Timestamp: 2026-10-25T21:13:15+01:00
+Question: What is a Nakshatra?
+Local source page: 9
+
+--- AGENT 1: LOCAL JOTHIDAM ANSWER ---
+நட்சத்திரம் என்பது 27 நட்சத்திரங்களில் ஒரு முக்கியமான கூறாகும். ஒவ்வொரு மனிதனுக்கு அவருடைய ஜன்ம நட்சத்திரம் இருக்கும், இது மற்றவர்களுக்கு ஷரபம், கார்த்திகை போன்ற விதங்களில் வித்தியாசமாக இருக்க வாய்ப்பு உள்ளது. நட்சத்திரத்தை கண்டறிய பஞ்சாங்கத்தைப் பார்க்க வேண்டும். ஆனால், சமர்த்தமான விளக்கங்கள் மற்றும் வருடம், மாதம், திதி ஆகியவற்றுக்கான முக்கியமான தகவல்களும் இதில் அடங்கியுள்ளன. 
+
+மேலும், நட்சத்திரங்களின் பரந்த விளக்கம் மற்றும் அவற்றின் பொருள் ஜோதிடத்தின் அடித்தளமாகக் கருதப்படுகிறது. 
+
+மொத்தத்தில், நட்சத்திரம் என்பது ஒருவர் தனிப்பட்ட ஜோதிடத்திற்கான அடிப்படை கூறாகும்.
+
+--- AGENT 2: WEB SEARCH ANSWER ---
+A Nakshatra is one of the 27 sectors of the sky in Vedic astrology, representing a lunar mansion. Each Nakshatra correlates with a particular star or group of stars and plays a significant role in traditional Hindu astrology. The term "Nakshatra" is derived from Sanskrit words "Naksha" (map) and "Tara" (star). 
+
+In Vedic astrology, the Nakshatras are fundamental for determining various aspects of a person's horoscope, including timing for important events and characteristics related to individuals based on their birth Nakshatra. The lunar month is divided into these Nakshatras, where each one is associated with specific qualities and traits.
+
+For further details, you can refer to sources like [Wikipedia](https://en.wikipedia.org/wiki/Nakshatra), [Britannica](https://www.britannica.com/topic/nakshatra), and [Rudraksha Ratna](https://www.rudraksha-ratna.com/articles/27-nakshatras-constellations?srsltid=AYCX9vKiDNqUdSfRJTbL1Jj6hrZWtcGrxGSy2DTpzVrLHceDMPVdM284).
+
+--- AGENT 3: SUPPORT RECORD ---
+Record timestamp: 2026-10-25T21:12:56+01:00
+
+ORIGINAL USER QUESTION:
+What is a Nakshatra?
+
+Agent 1's answer:
+நட்சத்திரம் என்பது 27 நட்சத்திரங்களில் ஒரு முக்கியமான கூறாகும். ஒவ்வொரு மனிதனுக்கு அவருடைய ஜன்ம நட்சத்திரம் இருக்கும், இது மற்றவர்களுக்கு ஷரபம், கார்த்திகை போன்ற விதங்களில் வித்தியாசமாக இருக்க வாய்ப்பு உள்ளது. நட்சத்திரத்தை கண்டறிய பஞ்சாங்கத்தைப் பார்க்க வேண்டும். ஆனால், சமர்த்தமான விளக்கங்கள் மற்றும் வருடம், மாதம், திதி ஆகியவற்றுக்கான முக்கியமான தகவல்களும் இதில் அடங்கியுள்ளன. 
+
+மேலும், நட்சத்திரங்களின் பரந்த விளக்கம் மற்றும் அவற்றின் பொருள் ஜோதிடத்தின் அடித்தளமாகக் கருதப்படுகிறது. 
+
+மொத்தத்தில், நட்சத்திரம் என்பது ஒருவர் தனிப்பட்ட ஜோதிடத்திற்கான அடிப்படை கூறாகும்.
+
+Agent 2's answer:
+A Nakshatra is one of the 27 sectors of the sky in Vedic astrology, representing a lunar mansion. Each Nakshatra correlates with a particular star or group of stars and plays a significant role in traditional Hindu astrology. The term "Nakshatra" is derived from Sanskrit words "Naksha" (map) and "Tara" (star). 
+
+In Vedic astrology, the Nakshatras are fundamental for determining various aspects of a person's horoscope, including timing for important events and characteristics related to individuals based on their birth Nakshatra. The lunar month is divided into these Nakshatras, where each one is associated with specific qualities and traits.
+
+For further details, you can refer to sources like [Wikipedia](https://en.wikipedia.org/wiki/Nakshatra), [Britannica](https://www.britannica.com/topic/nakshatra), and [Rudraksha Ratna](https://www.rudraksha-ratna.com/articles/27-nakshatras-constellations?srsltid=AYCX9vKiDNqUdSfRJTbL1Jj6hrZWtcGrxGSy2DTpzVrLHceDMPVdM284).
+
+========================================================================
+Timestamp: 2026-10-25T21:14:36+01:00
+Question: ராசிக்கும் நட்சத்திரத்திற்கும் என்ன வித்தியாசம்?
+Local source page: 9
+
+--- AGENT 1: LOCAL JOTHIDAM ANSWER ---
+ராசிக்கும் நட்சத்திரத்திற்கும் இடையே உள்ள வித்தியாசம் குறித்த தகவல் இாபுத்தியிலில் குறிப்பிட்டதாக இல்லை. ஆகையால், இபுத்தியிலுள்ள தகவல் போதுமானதல்ல.
+
+--- AGENT 2: WEB SEARCH ANSWER ---
+ராசி மற்றும் நட்சத்திரம் குறித்த தகவல்களின் அடிப்படையில்:
+
+1. **ராசி (Rashi)** என்பது 12 நக்சத்திரங்களை அடிப்படையாகக் கொண்டு உருவாக்கப்பட்ட 12 மண்டலங்களில் ஒருவர் பிறந்தபோது நிலவும் ஜோதிட சின்னமாகும். ஒவ்வொரு ராசியும் 30 டிகிரிகளைக் கொண்டுள்ளது.
+
+2. **நட்சத்திரம் (Nakshatra)** என்பது 27 அல்லது சில நேரங்களில் 28 பகுதிகளாக சீராகக் பிரிக்கப்பட்ட நிலவின் பாணிகள் ஆகும். ஒவ்வொரு நட்சத்திரமும் 13.33 டிகிரிகள் (13 டிகிரி 20 நிமிடங்கள்) ஆக உள்ளது.
+
+முடிவில், ராசி எதாவது ஒரு ஜோதிடம் போன்ற ஒரு பெரிய குறிப்பாக செயல்படும், ஆனால் நட்சத்திரம் ஒரு குறிப்பிட்ட தனி மண்டலத்தை குறிப்பிடும். எல்லா ராசிகளும் பத்துடன் உள்ள நட்சத்திரங்களுக்குள் எது தொடர்புடையது என்ற விவரங்களையும் குறிப்பிடுகின்றன. (மேலும் தகவலுக்கு: [Quora](https://www.quora.com/What-is-the-definition-of-Nakshatra-and-Rashi), [Tamilcube](https://astrology.tamilcube.com/rasi-nakshatra-lagna/))
+
+இந்தத் தகவல்கள் மூலம் ராசி மற்றும் நட்சத்திரம் இடையே உள்ள வித்தியாசங்களை உங்களுக்கு விளக்கி உள்ளது.
+
+--- AGENT 3: SUPPORT RECORD ---
+Date and Time: 2026-10-25T21:14:21+01:00
+
+ORIGINAL USER QUESTION:
+ராசிக்கும் நட்சத்திரத்திற்கும் என்ன வித்தியாசம்?
+
+Answer from Agent 1:
+ராசிக்கும் நட்சத்திரத்திற்கும் இடையே உள்ள வித்தியாசம் குறித்த தகவல் இாபுத்தியிலில் குறிப்பிட்டதாக இல்லை. ஆகையால், இபுத்தியிலுள்ள தகவல் போதுமானதல்ல.
+
+Answer from Agent 2:
+ராகி மற்றும் நட்சத்திரம் குறித்த தகவல்களின் அடிப்படையில்:
+
+1. **ராசி (Rashi)** என்பது 12 நக்சத்திரங்களை அடிப்படையாகக் கொண்டு உருவாக்கப்பட்ட 12 மண்டலங்களில் ஒருவர் பிறந்தபோது நிலவும் ஜோதிட சின்னமாகும். ஒவ்வொரு ராசியும் 30 டிகிரிகளைக் கொண்டுள்ளது.
+
+2. **நட்சத்திரம் (Nakshatra)** என்பது 27 அல்லது சில நேரங்களில் 28 பகுதிகளாக சீராகக் பிரிக்கப்பட்ட நிலவின் பாணிகள் ஆகும். ஒவ்வொரு நட்சத்திரமும் 13.33 டிகிரிகள் (13 டிகிரி 20 நிமிடங்கள்) ஆக உள்ளது.
+
+முடிவில், ராசி எதாவது ஒரு ஜோதிடம் போன்ற ஒரு பெரிய குறிப்பாக செயல்படும், ஆனால் நட்சத்திரம் ஒரு குறிப்பிட்ட தனி மண்டலத்தை குறிப்பிடும். எல்லா ராசிகளும் பத்துடன் உள்ள நட்சத்திரங்களுக்குள் எது தொடர்புடையது என்ற விவரங்களை குறிப்பிடுகின்றன. (மேலும் தகவலுக்கு: [Quora](https://www.quora.com/What-is-the-definition-of-Nakshatra-and-Rashi), [Tamilcube](https://astrology.tamilcube.com/rasi-nakshatra-lagna/))
+
+இந்தத் தகவல்கள் மூலம் ராசி மற்றும் நட்சத்திரம் இடையா உள்ள வித்தியாசங்களை உங்களுக்கு விளக்கி உள்ளது.
+
+========================================================================
+Timestamp: 2026-10-25T21:16:00+01:00
+Question: What is a Janma Nakshatra?
+Local source page: 9
+
+--- AGENT 1: LOCAL JOTHIDAM ANSWER ---
+ஜன்ம நட்சத்திரம் என்பது 27 நட்சத்திரங்களில் ஒன்றாக பிரிக்கப்படும், இது ஒருவரின் பிறந்த தருணத்தில் உள்ள நட்சத்திரம் ஆகும். ஒவ்வொரு நபருக்கும் ஜன்ம நட்சத்திரம் வேறுபட்டது, உதாரணமாக, ஒருவரின் ஜன்ம நட்சத்திரம் ரேவதி ஆகலாம், மற்றொரு நபருக்கு அது கார்த்திகா ஆகலாம். உங்கள் ஜன்ம நட்சத்திரத்தை அறிய, நீங்கள் பஞ்சாங்கத்தை பார்க்க வேண்டும். 
+
+பஞ்சாங்கம் என்பது ஐந்து अங்கங்களைக் கொண்டது, அவை வாரம், நட்சத்திரம், யோகம் மற்றும் கரணம் ஆகியவை உள்ளன. 
+
+(உள்ள தகவலை மட்டுமேக் குறிப்பிடவும். இந்த தனிப்பட்ட தகவல்கள், குறிப்பாக ஜன்ம நட்சத்திரம் பற்றிய மற்ற தகவல்கள், பதிவு செய்யப்பட்ட பகுதியில் அடிப்படையில் உள்ளன.)
+
+--- AGENT 2: WEB SEARCH ANSWER ---
+ஜன்ம நட்சத்திரம் (Janma Nakshatra) என்பது வேத ஜோதிஷத்தில், ஒருவரின் பிறந்த தருணத்தில் சந்திரன் உள்ள நட்சத்திரம் ஆகும். இது 27 நட்சத்திரங்களில் ஒன்றாக பிரிக்கப்படுகிறது. ஜன்ம நட்சத்திரம் ஒருவரின் உணர்வியல், குணங்களுக்கும், வாழ்க்கைபோக்குக்கும் மிக முக்கியமானது. இது அவர்களின் அனுபவங்களை, சகாப்தங்களை குறிப்பதாகக் கூறப்படுகிறது. 
+
+ஒருவர் பிறந்த நாளில் சந்திரன் இருந்த நட்சத்திரத்தை அடிப்படையாகக் கொண்டு, அவர்கள் நிர்ணயிக்கப்பட்ட ஜோதிட விளக்கம் மற்றும் அந்தந்த நட்சத்திரத்தின் சிறப்புகளைக் காணலாம். மேலும், இதை அறிந்துகொள்ள, பஞ்சாங்கத்தைப் பார்க்கவேண்டும். 
+
+மேலும் விவரங்களுக்கு நீங்கள் [Drik Panchang](https://www.drikpanchang.com/utilities/horoscope/hindu-birthstar-calculator.html) இணையதளத்தை பார்க்கலாம்.
+
+--- AGENT 3: SUPPORT RECORD ---
+Record timestamp: 2026-10-25T21:15:46+01:00
+
+ORIGINAL USER QUESTION:
+What is a Janma Nakshatra?
+
+Agent 1:
+ஜன்ம நட்சத்திரம் என்பது 27 நட்சத்திரங்களில் ஒன்றாக பிரிக்கப்படும், இது ஒருவரின் பிறந்த தருணத்தில் உள்ள நட்சத்திரம் ஆகும். ஒவ்வொரு நபருக்கும் ஜன்ம நட்சத்திரம் வேறுபட்டது, உதாரணமாக, ஒருவரின் ஜன்ம நட்சத்திரம் ரேவதி ஆகலாம், மற்றொரு நபருக்குத் அது கார்த்திகா ஆகலாம். உங்கள் ஜன்ம நட்சத்திரத்தை அறிய, நீங்கள் பஞ்சாங்கத்தை பார்க்க வேண்டும். 
+
+பஞ்சாங்கம் என்பது ஐந்து अங்கங்களைக் கொண்டது, அவை வாரம், நட்சத்திரம், யோகம் மற்றும் கரணம் ஆகியவை உள்ளன. 
+
+Agent 2:
+ஜன்ம நட்சத்திரம் (Janma Nakshatra) என்பது வேத ஜோதிஷத்தில், ஒருவரின் பிறந்த தருணத்தில் சந்திரன் உள்ள நட்சத்திரம் ஆகும்.これは27のナクシャトラの一つを基にしています。 ジャナマ・ナクシャトラは、個人の心理状態、特性、そして生き方にとって非常に重要です。これは、彼らの経験や能力を示していると考えられています。 
+
+人は、生まれた日付に月が置かれた星座を元に、個々に指定された占星術的解説とその星座の特性を見ることができます。 さらに、それを知るために、パンチャンガを見る必要があります。 
+
+さらに詳細については、[Drik Panchang](https://www.drikpanchang.com/utilities/horoscope/hindu-birthstar-calculator.html)を参照してください。
+
+========================================================================
+Timestamp: 2026-10-25T21:16:47+01:00
+Question: What are the 27 Nakshatras mentioned in Jothidam?
+Local source page: 51
+
+--- AGENT 1: LOCAL JOTHIDAM ANSWER ---
+உங்கள் கேள்விக்கான பதில்: 
+
+27 நட்சத்திரங்களை வாங்க கீழே கொடுத்துள்ளேன்:
+
+1. அஸ்வினி
+2. மகம்
+3. மூலம்
+4. பரணி
+5. பூரம்
+6. பூராடம்
+7. கார்த்திகை
+8. உத்திரம்
+9. உத்திராடம்
+10. ரோகிணி
+11. ჰஸ்தம்
+12. திருவோணம்
+13. மிருகசீரிஷம்
+14. சித்திரை
+15. அவிட்டம்
+16. திருவாதிரை
+17. ஸ்வாதி
+18. சதயம்
+19. புனர்ப்பூசம்
+20. விசாகம்
+21. பூரட்டாதி
+22. பூசம்
+23. அனுஷம்
+24. உத்திரட்டாதி
+25. ஆயில்யம்
+26. கேட்டை
+27. ரேவதி
+
+மேலும் விவரங்களுக்கு, மேலதிகத்தை இன்று படிக்கவும்.
+
+--- AGENT 2: WEB SEARCH ANSWER ---
+The 27 Nakshatras mentioned in Jothidam are as follows:
+
+1. Ashwini
+2. Bharani
+3. Krittika
+4. Rohini
+5. Mrigashira
+6. Ardra
+7. Punarvasu
+8. Pushya
+9. Ashlesha
+10. Magha
+11. Purva Phalguni
+12. Uttara Phalguni
+13. Hasta
+14. Chitra
+15. Swati
+16. Vishakha
+17. Anuradha
+18. Jyeshtha
+19. Mula
+20. Purva Ashadha
+21. Uttara Ashadha
+22. Shravana
+23. Dhanishta
+24. Shatabhisha
+25. Purva Bhadrapada
+26. Uttara Bhadrapada
+27. Revati
+
+For more details, you can refer to sources like [Wikipedia](https://en.wikipedia.org/wiki/List_of_Nakshatras) and [Astrology Prophets](https://www.astrology-prophets.com/nakshatras.php).
+
+--- AGENT 3: SUPPORT RECORD ---
+Record timestamp: 2026-10-25T21:16:33+01:00
+
+ORIGINAL USER QUESTION:
+What are the 27 Nakshatras mentioned in Jothidam?
+
+Answer from Agent 1:
+27 நட்சத்திரங்களை வாங்க கீழே கொடுத்துள்ளேன்:
+
+1. அஸ்வினி
+2. மகம்
+3. மூலம்
+4. பரணி
+5. பூரம்
+6. பூராடம்
+7. கார்த்திகை
+8. உத்திரம்
+9. உத்திராடம்
+10. ரோகிணி
+11. ჰஸ్తம்
+12. திருவோணம்
+13. மிருகசீரிஷம்
+14. சித்திரை
+15. அவிட்டம்
+16. திருவாதிரை
+17. ஸ்வாதி
+18. சதயம்
+19. புனர்ப்பூசம்
+20. விசாகம்
+21. பூரட்டாதி
+22. பூசம்
+23. அனுஷம்
+24. உத்தியரட்டாதி
+25. ஆயில்யம்
+26. கேட்டை
+27. ரேவதி
+
+மேலும் விவரங்களுக்கு, மேலதிகத்தை இன்று படிக்கவும்.
+
+Answer from Agent 2:
+The 27 Nakshatras mentioned in Jothidam are as follows:
+
+1. Ashwini
+2. Bharani
+3. Krittika
+4. Rohini
+5. Mrigashira
+6. Ardra
+7. Punarvasu
+8. Pushya
+9. Ashlesha
+10. Magha
+11. Purva Phalguni
+12. Uttara Phalguni
+13. Hasta
+14. Chitra
+15. Swati
+16. Vishakha
+17. Anuradha
+18. Jyeshtha
+19. Mula
+20. Purva Ashadha
+21. Uttara Ashadha
+22. Shravana
+23. Dhanishta
+24. Shatabhisha
+25. Purva Bhadrapada
+26. Uttara Bhadrapada
+27. Revati
+
+For more details, you can refer to sources like [Wikipedia](https://en.wikipedia.org/wiki/List_of_Nakshatras) and [Astrology Prophets](https://www.astrology-prophets.com/nakshatras.php).
