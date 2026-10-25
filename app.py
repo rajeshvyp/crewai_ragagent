@@ -153,21 +153,22 @@ entry_agent = Agent(
 
 
 # =========================================================
-# BLOCK 5 — Retrieve a passage from the local Jothidam notes
+# BLOCK 5 — Retrieve relevant passages from local Jothidam notes
 # =========================================================
 
 def retrieve_local_passage(question):
     """
-    Search the existing chunks and return a passage with metadata.
+    Retrieve the best matching passages from the local Jothidam books.
 
-    This function does not call OpenAI. It only retrieves text.
-    The Knowledge Assistant will use that text in Agent 1's task.
+    The updated search_knowledge() function returns a list of
+    passages, so this function combines them for Agent 1.
     """
 
     chunks = get_knowledge_chunks()
-    result = search_knowledge(question, chunks)
+    results = search_knowledge(question, chunks)
 
-    if result is None:
+    # Handle an empty result list.
+    if not results:
         return {
             "text": (
                 "No matching passage was retrieved from the "
@@ -177,10 +178,30 @@ def retrieve_local_passage(question):
             "chunk_id": None,
         }
 
+    # Combine the retrieved passages and preserve their page numbers.
+    passage_sections = []
+
+    for number, result in enumerate(results, start=1):
+        page = result.get("page")
+        chunk_id = result.get("chunk_id", "Unknown")
+        text = result.get("text", "")
+
+        passage_sections.append(
+            f"PASSAGE {number}\n"
+            f"Page: {page if page is not None else 'Unknown'}\n"
+            f"Chunk: {chunk_id}\n"
+            f"Text:\n{text}"
+        )
+
+    combined_text = "\n\n".join(passage_sections)
+
+    # Keep the first-ranked result's metadata for the UI and log.
+    best_result = results[0]
+
     return {
-        "text": result["text"],
-        "page": result.get("page"),
-        "chunk_id": result.get("chunk_id"),
+        "text": combined_text,
+        "page": best_result.get("page"),
+        "chunk_id": best_result.get("chunk_id"),
     }
 
 
